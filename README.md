@@ -1,12 +1,12 @@
 # Hi, I'm Mahnoor 
 
-💻 Aspiring **Machine Learning & Data Science Enthusiast**  
-🌱 Building projects to sharpen my skills in **data analysis & predictive modeling**  
-🚀 Excited to continue learning and applying ML to real-world problems  
+ Aspiring **Machine Learning & Data Science Enthusiast**  
+ Building projects to sharpen my skills in **data analysis & predictive modeling**  
+ Excited to continue learning and applying ML to real-world problems  
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 **Programming & Libraries**  
 - Python  | Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn  
