@@ -18,5 +18,5 @@
 
 ##  Current Goals
 - Expand my ML portfolio with more projects (Regression, Classification, Clustering)  
-- Practice data storytelling with Power BI dashboards  
+- Practice data storytelling with Power BI and excel dashboards  
 - Learn deployment tools like Streamlit  
