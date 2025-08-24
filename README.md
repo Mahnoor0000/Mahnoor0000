@@ -1,22 +1,12 @@
 # Hi, I'm Mahnoor 
 
- Aspiring **Machine Learning & Data Science Enthusiast**  
- Building projects to sharpen my skills in **data analysis & predictive modeling**  
- Excited to continue learning and applying ML to real-world problems  
+I write code in **Python** and **C/C++**, explore datasets for fun, and love digging into the world of **Machine Learning** and **Data Science**.  
+When I’m not cleaning messy data or plotting graphs, I’m usually asleep, scrolling endlessly, or reading something random. XD
 
 ---
 
-##  Skills & Tools
+### What I Do
+- Data analysis and visualization  
+- Building ML basics (regression, classification, clustering)  
+- Exploring how to turn code into real-world solutions  
 
-**Programming & Libraries**  
-- Python  | Pandas | NumPy | Seaborn | Matplotlib | Scikit-learn  
-
-**Data Analysis & Visualization**  
-- Power BI | Data Cleaning | Exploratory Data Analysis (EDA)  
-
----
-
-##  Current Goals
-- Expand my ML portfolio with more projects (Regression, Classification, Clustering)  
-- Practice data storytelling with Power BI and excel dashboards  
-- Learn deployment tools like Streamlit  
