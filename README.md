@@ -1,7 +1,7 @@
 # Hi, I'm Mahnoor 
 
 I write code in **Python** and **C/C++**, explore datasets for fun, and love digging into the world of **Machine Learning** and **Data Science**.  
-When I’m not cleaning messy data or plotting graphs, I’m usually asleep, scrolling endlessly, or reading something random. XD
+When I’m not cleaning messy data or plotting graphs, I’m usually asleep, scrolling or reading something random. XD
 
 ---
 
